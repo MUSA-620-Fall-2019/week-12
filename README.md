@@ -1,6 +1,6 @@
 # Week 12<br>Predicting Bikeshare Demand in Philadelphia
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Fall-2019/week-12/master?filepath=lecture-11.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Fall-2019/week-12/master?filepath=lecture-12.ipynb)
 
 ## Updating your local environment
 
